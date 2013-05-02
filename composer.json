@@ -1,0 +1,17 @@
+{
+    "name": "jaceju/my-orm",
+    "description": "First ORM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jace Ju",
+            "email": "jaceju@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload" : {
+        "psr-0": {"Jace": "src/"}
+    }
+}

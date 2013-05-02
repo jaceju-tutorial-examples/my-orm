@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"confi",
+				"configFilePath"
+			],
+			[
+				"conf",
+				"configFileType"
+			],
+			[
+				"file",
+				"configFilePath"
+			],
+			[
+				"file_get",
+				"file_get_contents()"
+			],
+			[
+				"Simple",
+				"simplexml_load_file"
+			],
+			[
+				"is_call",
+				"is_callable()"
+			],
+			[
+				"imp",
+				"implode()"
+			],
+			[
+				"set_incl",
+				"set_include_path()"
+			],
+			[
+				"fwri",
+				"fwrite()"
+			],
+			[
+				"fpu",
+				"fputs"
+			],
+			[
+				"fc",
+				"fclose()"
+			],
+			[
+				"fopen",
+				"fopen()"
+			],
+			[
+				"set_",
+				"set_exception_handler"
+			],
+			[
+				"c",
+				"category_data"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"preg_m",
+				"preg_match()"
+			],
+			[
+				"var_du",
+				"var_dump()"
+			],
+			[
+				"__call",
+				"__callStatic()"
+			],
+			[
+				"get_call",
+				"get_called_class()"
+			],
+			[
+				"trigger",
+				"trigger_error()"
+			],
+			[
+				"htmls",
+				"htmlspecialchars()"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"b",
+				"border-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"todo_li",
+				"todo_list_view"
+			],
+			[
+				"cle",
+				"clear_completed"
+			],
+			[
+				"backbone",
+				"backbone-localstorage"
+			],
+			[
+				"image",
+				"image_info"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"wb",
+				"showWbAppRequests"
+			],
+			[
+				"show",
+				"showWbAppRequests"
+			],
+			[
+				"fb_",
+				"fb_connect_btn"
+			],
+			[
+				"dis",
+				"display_dom"
+			],
+			[
+				"chc",
+				"checked"
+			],
+			[
+				"sw",
+				"switch_dom"
+			],
+			[
+				"status",
+				"status_model"
+			],
+			[
+				"PID",
+				"PID_DIR"
+			],
+			[
+				"pro",
+				"project_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/PHPUnit.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"for",
+				"Format: Php"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/README.md",
+		"/Users/jaceju/Library/Application Support/Sublime Text 2/Packages/User/PHPUnit.sublime-build",
+		"/Users/jaceju/Dropbox/Project/my-orm/src/Jace/Model.php",
+		"/Users/jaceju/Desktop/Db.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/01-oo-basic.md",
+		"/Users/jaceju/Sites/personal/Blog/source/_posts/2013-03-23-website-deploy-note.markdown",
+		"/Users/jaceju/Sites/personal/Blog/source/_posts/2013-04-27-php-mongodb.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/04-patterns.md",
+		"/Users/jaceju/default.vcl",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day3/03-package-manage.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/01-error-debug.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/02-unittest.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/03-refactoring.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/refactoring/00_orig/index.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/refactoring/00_orig/bootstrap.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day3/01-security.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day3/02-performance-code.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/namespace-use.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/Sample.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/namespace-use-02.php",
+		"/Users/jaceju/Sites/test/rockmongo/config.php",
+		"/Users/jaceju/Sites/test/rockmongo/app/controllers/collection.php",
+		"/Users/jaceju/Sites/test/rockmongo/app/classes/BaseController.php",
+		"/Users/jaceju/Sites/test/rockmongo/app/lib/mongo/RMongo.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/debug/print_r-var_dump.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch04/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch05/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch06/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch03/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/03/encapsulation.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/03-oo-design.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/strategy/01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/FixtureTest.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/MockTest-01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/Subject.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/MockTest-02.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/ExceptionTest.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/Add.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/AddTest.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/Person.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/examples/unittest/PersonTest.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/template-method/01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/chain-of-responsibility/01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/chain-of-responsibility/02.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/strategy/02.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/exception-02.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/class-basic.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/inheritance.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/registry/01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day4/01-mvc.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/exception-01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/exception.php",
+		"/Users/jaceju/empty-folder.txt",
+		"/Users/jaceju/lock-file.txt",
+		"/Users/jaceju/temp-folder.txt",
+		"/Users/jaceju/Desktop/empty.txt",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/class-mysql-class.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/factory-method/01.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/class-mysql-nonclass.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/02-php5.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/clone.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/04/Product.php",
+		"/Users/jaceju/Dropbox/License/Sublime Text 2.txt",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day3/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/04-quality.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day4/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/class.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/01/Car.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch01/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_training/ch02/README.md",
+		"/Users/jaceju/Library/Application Support/Sublime Text 2/Packages/User/php.sublime-build",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/shortcut-syntax.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/builtin-ws-wrapper.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/function-array-dereferencing.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/trait.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/short-array-syntax.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/ternary-operator.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/const-class.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/const-global.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/heredoc-nowdoc.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/closure.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/closure-this.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/anonymous.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/invoke.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/call.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day2/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/callable.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/callStatic.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/late-static-binding-before.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/late-static-binding-after.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/namespace.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/toString.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/examples/02/set,get,isset,unset.php",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/php_advenced_training/day1/01.md",
+		"/Users/jaceju/Projects/php_training/ch02/README.md",
+		"/Users/jaceju/Projects/php_training/ch01/README.md",
+		"/Users/jaceju/Projects/php_training/ch07/README.md",
+		"/Users/jaceju/Projects/php_training/ch04/README.md",
+		"/Users/jaceju/Projects/php_training/ch03/README.md",
+		"/Users/jaceju/Projects/php_training/ch05/README.md",
+		"/Users/jaceju/Projects/php_training/ch06/README.md",
+		"/Users/jaceju/Projects/php_training/ch08/README.md",
+		"/Users/jaceju/Projects/php_training/ch09/README.md",
+		"/Users/jaceju/Projects/php_training/ch10/README.md",
+		"/Users/jaceju/Projects/php_training/ch11/README.md",
+		"/Users/jaceju/Dropbox/My Slides and Articles/JSDC/What is MVC, MVP, MVVM/哏.txt",
+		"/Users/jaceju/Desktop/程青.txt",
+		"/Users/jaceju/Projects/php_training/README.md",
+		"/Users/jaceju/Projects/php_training/homework/README.md",
+		"/Users/jaceju/Projects/php_training/ch03/class/ResourceManager.php",
+		"/Users/jaceju/Desktop/轉文.txt",
+		"/Users/jaceju/Sites/personal/laravel_tpl/laravel/request.php",
+		"/Users/jaceju/Sites/personal/laravel_tpl/laravel/core.php",
+		"/Users/jaceju/Sites/personal/laravel_tpl/laravel/laravel.php",
+		"/Users/jaceju/Sites/personal/laravel_tpl/public/index.php",
+		"/Users/jaceju/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/jaceju/Sites/Sina/weibo-admin/storage/logs/prefetch_status_pic-2013-04-15.log",
+		"/Users/jaceju/Projects/php_training/ch02/ex-02-01.php",
+		"/Users/jaceju/Projects/php_training/ch03/ex-03-03.php",
+		"/Users/jaceju/Projects/php_training/ch03/ex-03-04.php",
+		"/Users/jaceju/Projects/php_training/ch02/classes/My/Profile/Builder.php",
+		"/Users/jaceju/Projects/php_training/ch02/classes/Bob/Profile/Builder.php",
+		"/Users/jaceju/Projects/php_training/ch02/classes/My/Script/Builder.php",
+		"/Users/jaceju/Projects/php_training/ch02/ex-02-02.php",
+		"/Users/jaceju/Sites/personal/Blog/2013-03-23-linux-command.markdown",
+		"/Users/jaceju/Desktop/不要一開始就給使用者太多",
+		"/Users/jaceju/Projects/php_training/ch01/ex-01-03.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jaceju/Sites/personal/Blog/source/_posts",
+			"/Users/jaceju/Sites/Sina/weibo-new/application/views",
+			"/Users/jaceju/Sites/test/backbone_bdd/jasmine",
+			"/Users/jaceju/Desktop/web tools/mediawiki-1.15.4/mediawiki-1.15.4",
+			"/Users/jaceju/Sites/test/annualsale",
+			"/Users/jaceju/Desktop/新浪/個人微博頁面web",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"=+",
+			"`",
+			"return \\(",
+			"return (",
+			"\\( ",
+			" \\)",
+			"\\( ",
+			"( ",
+			"\\( +([^\\)]+)",
+			"\\( +([^\\)]+) +\\)",
+			";",
+			"。",
+			",",
+			"• ",
+			"。",
+			" 。",
+			"， ",
+			",",
+			"• ",
+			".+ (\\w+)$",
+			"fileType",
+			"filePath",
+			"<\\/?strong>",
+			".* (\\w+)$",
+			".*(\\w+)$",
+			"(\\w+)$",
+			" --env=$ENV",
+			"2012-06-01",
+			"2013-01-01",
+			"2012-01-01",
+			"2012-06-01",
+			"2011-06-01",
+			"2012-01-01",
+			"2012-06-01",
+			"2011-01-01",
+			"2011-06-01",
+			"2013-05-01",
+			"(.+) (.+)",
+			"\\.?/",
+			"(.+) (.+)",
+			"php artisan ",
+			"(.+) (.+)",
+			"\\.?/",
+			"./",
+			"\\t\\t",
+			"\\t",
+			"/",
+			"\\./",
+			"###",
+			"• ",
+			"### ",
+			"• ",
+			"\\n",
+			" cli",
+			"static",
+			",",
+			"=>",
+			"'",
+			"Jace",
+			"_fork",
+			"object",
+			"\"([^\"]+)\",",
+			"(.+)_bak",
+			"(.+)",
+			",",
+			"\"",
+			"\\n+",
+			",",
+			",{2,}",
+			";",
+			"\\n+",
+			"800",
+			"jaceju.staff.doubleservice.com/[^\\/]+",
+			"values",
+			"\\)",
+			"\\d+ : ",
+			"=>",
+			"array \\(",
+			"佈署",
+			"161",
+			"\",\"",
+			"\\n",
+			"=> (.+),",
+			"\\n,",
+			"\\n+",
+			"\\[\"\\$id\"\\]",
+			"\\n+",
+			"(\\d+).*",
+			"刪除",
+			"│",
+			"2 -D",
+			"^.+│",
+			"│   ",
+			"# ",
+			"│",
+			" x ",
+			"File not found: /var/tmp/php-5.4.12-1-root-root",
+			"\\n",
+			" >=.*",
+			" is needed by php-5.4.12-1.x86_64",
+			"<td class=\"desc\"",
+			"td>",
+			"td class=\"speaker\"",
+			"<td class=\"subject\">",
+			"div class=\"session\"",
+			"</tr>",
+			"<tr>",
+			"960px",
+			"hidden",
+			"^\\d ",
+			"164",
+			"^[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+",
+			".+\\/([^\\/]+)$",
+			".+([^\\/]+)$",
+			"^[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+\\s+",
+			"## ",
+			"### ",
+			"\\s4\\d\\s210.17.38.164\\s+",
+			"^[^\\s]+ -> ",
+			"^[^\\s]+[\\s]+[^\\s]+[\\s]+[^\\s]+[\\s]+[^\\s]+[\\s]+[^\\s]+[\\s]+[^\\s]+[\\s]+",
+			"/home/web/weibo-new/",
+			"src=\"http://tw.weibo.com",
+			"href=\"http://tw.weibo.com",
+			"string ",
+			"int ",
+			"&amp;",
+			"<h(.)[^>]+>\\n<a[^>]+>(.+)<\\/a>\\n<\\/h\\1>",
+			"<h(.)[^>]+>\\n(.+)\\n<\\/h\\1>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"------",
+			"",
+			"return(",
+			"(",
+			")",
+			"(",
+			"(\\1)",
+			"",
+			"，",
+			"* ",
+			"",
+			"，",
+			"* ",
+			"rm -rf \\1",
+			"configFileType",
+			"configFilePath",
+			"",
+			"sudo -u web /usr/local/bin/php /home/web/weibo-admin/artisan build_page --env=production sinatw \\1 debug",
+			" --env=$ENV debug",
+			"2013-01-01",
+			"2013-04-01",
+			"2012-06-01",
+			"2013-01-01",
+			"2012-01-01",
+			"2012-06-01",
+			"2011-06-01",
+			"2012-06-01",
+			"2012-01-01",
+			"2011-06-01",
+			"sudo -u web php artisan build_page --env=production \\1 \\2 debug",
+			" ",
+			"sudo -u web php artisan build_page --env=production \\1 \\2 debug",
+			"php artisan fork_statuses --env=production \\1 route=\\2 \"start=2013-01-01 00:00:00\" \"end=2013-05-01 00:00:00\" debug",
+			" ",
+			"\\n",
+			"\\t\\t\\t",
+			"\\t",
+			"\\t\\t\\t",
+			"\\t",
+			"",
+			"##",
+			"* ",
+			", ",
+			"",
+			":",
+			"",
+			"My",
+			"_add",
+			"num1",
+			"db.\\1.dropIndex('route_1_idstr_1'); db.\\1.ensureIndex({ route:1, idstr:1 }, { unique:true, dropDups:true, background: true })",
+			"db.runCommand({renameCollection:\"weibo.\\1_bak\", to:\"weibo_bak.\\1\"})",
+			"db.runCommand({renameCollection:\"weibo.\\1\", to:\"weibo_bak.\\1\"})",
+			"",
+			"\\n",
+			"\\t",
+			"",
+			"\\n",
+			"www.jaceju.net/resources",
+			"stubs",
+			"}",
+			"",
+			":",
+			"{",
+			"部署",
+			"$ip",
+			"\",\\n\"",
+			"",
+			"=> new MongoId('\\1'),",
+			",",
+			"\\n",
+			"'$id'",
+			"\\n",
+			"\"\\1\",",
+			"",
+			"1 -D",
+			"",
+			"x",
+			" ",
+			"",
+			"<p class=\"desc\"",
+			"p>",
+			"p class=\"speaker\"",
+			"<h1 class=\"subject\">",
+			"section class=\"session\"",
+			"</div>",
+			"<div class=\"session\">",
+			"800px",
+			"",
+			"161",
+			"ln -s ",
+			"rm -rf \\1",
+			"rm -rf $1",
+			"ln -s ",
+			"h2. ",
+			"h3. ",
+			"127.0.0.1 ",
+			"ln -s ",
+			"",
+			"/home/sinanet/",
+			"/home/sinanet",
+			"src=\"",
+			"href=\"",
+			"",
+			"&",
+			"<h\\1>\\2</h\\1>",
+			"\\1",
+			"#\\1",
+			"5.4.11",
+			"\\1 ",
+			"#",
+			"<a href=\"\\2\">\\1</a>",
+			"",
+			"www.jaceju.net/blog/archives/\\1",
+			"/archives/\\1",
+			" ",
+			"",
+			" ",
+			"",
+			"mysqli_",
+			"username",
+			"",
+			"混凝土",
+			"',",
+			"'",
+			"",
+			"\\1",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/jaceju/temp/go-test":
+	{
+		"height": 149.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 124.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
