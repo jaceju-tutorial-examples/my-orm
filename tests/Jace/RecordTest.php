@@ -15,31 +15,29 @@ class User extends Record
 
 class RecordTest extends \PHPUnit_Framework_TestCase
 {
+    protected $_user = null;
+
     public function setUp()
     {
         $dsn = 'mysql:dbname=test;host=127.0.0.1';
         $username = 'username';
         $password = 'password';
 
-        $user = new User($dsn, $username, $password);
-        $user->truncate();
+        $this->_user = new User($dsn, $username, $password);
+        $this->_user->truncate();
     }
 
     public function tearDown()
     {
+        $this->_user = null;
     }
 
     public function testIdShouldBeOneAfterSave()
     {
-        $dsn = 'mysql:dbname=test;host=127.0.0.1';
-        $username = 'username';
-        $password = 'password';
-
-        $user = new User($dsn, $username, $password);
-        $user->name = 'jaceju';
-        $user->birthday = '1970-05-01';
-        $user->save();
-        $this->assertEquals(1, $user->id);
+        $this->_user->name = 'jaceju';
+        $this->_user->birthday = '1970-05-01';
+        $this->_user->save();
+        $this->assertEquals(1, $this->_user->id);
     }
 
     /**
@@ -47,17 +45,12 @@ class RecordTest extends \PHPUnit_Framework_TestCase
      */
     public function testItShouldBeSameNameAfterFind()
     {
-        $dsn = 'mysql:dbname=test;host=127.0.0.1';
-        $username = 'username';
-        $password = 'password';
+        $this->_user->name = 'jaceju';
+        $this->_user->birthday = '1970-05-01';
+        $this->_user->save();
 
-        $user = new User($dsn, $username, $password);
-        $user->name = 'jaceju';
-        $user->birthday = '1970-05-01';
-        $user->save();
-
-        $user = (new User($dsn, $username, $password))->find(1);
-        $this->assertEquals('jaceju', $user->name);
+        $this->_user = $this->_user->find(1);
+        $this->assertEquals('jaceju', $this->_user->name);
     }
 
     /**
@@ -65,21 +58,16 @@ class RecordTest extends \PHPUnit_Framework_TestCase
      */
     public function testItShouldBeOtherNameAfterSave()
     {
-        $dsn = 'mysql:dbname=test;host=127.0.0.1';
-        $username = 'username';
-        $password = 'password';
+        $this->_user->name = 'jaceju';
+        $this->_user->birthday = '1970-05-01';
+        $this->_user->save();
 
-        $user = new User($dsn, $username, $password);
-        $user->name = 'jaceju';
-        $user->birthday = '1970-05-01';
-        $user->save();
+        $this->_user = $this->_user->find(1);
+        $this->assertEquals('jaceju', $this->_user->name);
 
-        $user = (new User($dsn, $username, $password))->find(1);
-        $this->assertEquals('jaceju', $user->name);
-
-        $user->name = 'rickysu';
-        $user->save();
-        $this->assertEquals('rickysu', $user->name);
+        $this->_user->name = 'rickysu';
+        $this->_user->save();
+        $this->assertEquals('rickysu', $this->_user->name);
     }
 
 }
